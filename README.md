@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ansh5025)
+
 <h1 align="center">Hi 👋, I'm Ansh Rai</h1>
 <h3 align="center">A passionate Computer Science Undergraduate from India</h3>
 
